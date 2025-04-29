@@ -1,0 +1,49 @@
+# Core dependencies
+aiohttp
+asyncio
+greenswitch
+pydantic
+pydantic-settings
+python-dotenv
+typing-extensions
+
+# Audio processing
+numpy
+scipy
+wave
+soundfile
+librosa
+pyaudio
+
+# NLP and AI
+torch
+transformers
+sentence-transformers
+ollama
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+openai
+chromadb
+
+# Speech processing
+pywhispercpp
+nltk
+
+# LangGraph components
+langgraph
+langchain-core
+
+# Web and server components
+fastapi
+uvicorn
+simple-websocket
+websockets
+
+# Utilities
+tqdm
+rich
+loguru
+pytest
+pytest-asyncio
